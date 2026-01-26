@@ -25,13 +25,6 @@ ShizukuRunner is a compact Android app that executes shell commands through the 
 
 ---
 
-## Screenshots
-
-Use your local build to view UI. Example icon (repo-relative):
-
-<img src="app/src/main/res/drawable/icon.png" alt="Cat Icon" width="160">
-
----
 
 ## Requirements
 
