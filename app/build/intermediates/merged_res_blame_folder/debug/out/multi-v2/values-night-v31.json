@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shizuku.uninstaller.app-mergeDebugResources-3:/values-night-v31/values-night-v31.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "12,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "434,61",
+                        "endLines": "14,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "547,426"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,171",
+                        "endLines": "4,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "166,530"
+                    }
+                }
+            ]
+        }
+    ]
+}

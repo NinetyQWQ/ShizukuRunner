@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/layout_set.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/layout/set.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/drawable_run.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/drawable/run.xml"
+    },
+    {
+        "merged": "com.shizuku.uninstaller.app-merged_res-5:/layout_r.xml.flat",
+        "source": "com.shizuku.uninstaller.app-main-7:/layout/r.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/layout_dialog.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/layout/dialog.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/drawable_icon.png.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/drawable/icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/drawable_plus.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/drawable/plus.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/layout_r.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/layout/r.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/layout_exec.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/layout/exec.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/mipmap-anydpi-v26_icon.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/mipmap-anydpi-v26/icon.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/layout_help.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/layout/help.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/mipmap-anydpi-v26_cat.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/mipmap-anydpi-v26/cat.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/drawable-anydpi-v24_icon.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-pngs-0:/drawable-anydpi-v24/icon.xml"
+    },
+    {
+        "merged": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "/data/user/0/com.itsaky.androidide/files/home/.gradle/daemon/7.5-rc-1/com.shizuku.uninstaller.app-main-7:/layout/activity_main.xml"
+    }
+]

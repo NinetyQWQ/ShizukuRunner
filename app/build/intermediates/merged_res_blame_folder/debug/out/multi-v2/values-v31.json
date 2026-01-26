@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shizuku.uninstaller.app-mergeDebugResources-3:/values-v31/values-v31.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-v31/colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,120",
+                        "endColumns": "61,62",
+                        "endOffsets": "114,178"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,62",
+                        "endOffsets": "112,175"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-v31/styles.xml",
+                    "from": {
+                        "startLines": "15,3,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "553,59,180",
+                        "endLines": "17,5,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "665,172,545"
+                    },
+                    "to": {
+                        "startLines": "4,7,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "180,295,411",
+                        "endLines": "6,9,16",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "290,406,770"
+                    }
+                }
+            ]
+        }
+    ]
+}

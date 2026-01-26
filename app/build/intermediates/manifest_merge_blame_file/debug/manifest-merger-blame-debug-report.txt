@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.shizuku.uninstaller"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="moe.shizuku.manager.permission.API_V23" />
+11-->[dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:10:5-78
+11-->[dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:10:22-75
+12
+13    <application
+13-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:5:5-31:19
+14        android:debuggable="true"
+15        android:extractNativeLibs="true"
+15-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:6:9-41
+16        android:icon="@string/icon"
+16-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:7:9-36
+17        android:label="ShizukuRunner"
+17-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:8:9-38
+18        android:theme="@android:style/Theme.DeviceDefault.Dialog" >
+18-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:9:9-66
+19        <activity
+19-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:10:9-19:20
+20            android:name="com.shizuku.uninstaller.MainActivity"
+20-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:11:13-41
+21            android:exported="true"
+21-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:13:13-36
+22            android:launchMode="singleTask" >
+22-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:12:13-44
+23            <intent-filter>
+23-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:14:13-18:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:15:17-69
+24-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:15:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:17:17-77
+26-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:17:27-74
+27            </intent-filter>
+28        </activity>
+29        <activity
+29-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:20:9-23:48
+30            android:name="com.shizuku.uninstaller.Exec"
+30-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:21:13-33
+31            android:excludeFromRecents="true"
+31-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:23:13-46
+32            android:exported="true" />
+32-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:22:13-36
+33
+34        <provider
+35            android:name="rikka.shizuku.ShizukuProvider"
+35-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:25:13-57
+36            android:authorities="com.shizuku.uninstaller.shizuku"
+36-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:26:13-59
+37            android:enabled="true"
+37-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:28:13-35
+38            android:exported="true"
+38-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:29:13-36
+39            android:multiprocess="false"
+39-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:27:13-41
+40            android:permission="android.permission.INTERACT_ACROSS_USERS_FULL" />
+40-->/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:30:13-79
+41
+42        <meta-data
+42-->[dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:13:9-15:36
+43            android:name="moe.shizuku.client.V3_SUPPORT"
+43-->[dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:14:13-57
+44            android:value="true" />
+44-->[dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:15:13-33
+45    </application>
+46
+47</manifest>

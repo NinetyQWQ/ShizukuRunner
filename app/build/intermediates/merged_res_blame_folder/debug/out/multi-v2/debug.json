@@ -1,0 +1,168 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shizuku.uninstaller.app-merged_res-5:/values-night-v31_values-night-v31.arsc.flat",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-night-v31/styles.xml",
+                    "from": {
+                        "startLines": "12,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "434,61",
+                        "endLines": "14,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "547,426"
+                    },
+                    "to": {
+                        "startLines": "2,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,171",
+                        "endLines": "4,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "166,530"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.shizuku.uninstaller.app-merged_res-5:/values-v26_values-v26.arsc.flat",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-v26/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "104,57",
+                        "endColumns": "43,45",
+                        "endOffsets": "143,98"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,99",
+                        "endColumns": "43,45",
+                        "endOffsets": "94,140"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-v26/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "344"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "145",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "424"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.shizuku.uninstaller.app-merged_res-5:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,4,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "94,131,57",
+                        "endColumns": "35,35,35",
+                        "endOffsets": "125,162,88"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,91,127",
+                        "endColumns": "35,35,35",
+                        "endOffsets": "86,122,158"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "106,57",
+                        "endColumns": "46,47",
+                        "endOffsets": "148,100"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "163,210",
+                        "endColumns": "46,47",
+                        "endOffsets": "205,253"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "23,3,10,15,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "736,56,379,539,652",
+                        "endLines": "25,8,13,17,21",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "766,373,533,646,730"
+                    },
+                    "to": {
+                        "startLines": "7,10,16,20,23",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "258,293,615,774,886",
+                        "endLines": "9,15,19,22,25",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "288,610,769,881,964"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.shizuku.uninstaller.app-merged_res-5:/values-v31_values-v31.arsc.flat",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-v31/colors.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,120",
+                        "endColumns": "61,62",
+                        "endOffsets": "114,178"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,117",
+                        "endColumns": "61,62",
+                        "endOffsets": "112,175"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values-v31/styles.xml",
+                    "from": {
+                        "startLines": "15,3,7",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "553,59,180",
+                        "endLines": "17,5,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "665,172,545"
+                    },
+                    "to": {
+                        "startLines": "4,7,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "180,295,411",
+                        "endLines": "6,9,16",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "290,406,770"
+                    }
+                }
+            ]
+        }
+    ]
+}

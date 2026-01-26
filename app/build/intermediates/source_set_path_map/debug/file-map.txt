@@ -1,0 +1,8 @@
+com.shizuku.uninstaller.app-pngs-0 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/build/generated/res/pngs/debug
+com.shizuku.uninstaller.app-resValues-1 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/build/generated/res/resValues/debug
+com.shizuku.uninstaller.app-rs-2 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/build/generated/res/rs/debug
+com.shizuku.uninstaller.app-mergeDebugResources-3 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.shizuku.uninstaller.app-mergeDebugResources-4 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.shizuku.uninstaller.app-merged_res-5 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/build/intermediates/merged_res/debug
+com.shizuku.uninstaller.app-debug-6 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/debug/res
+com.shizuku.uninstaller.app-main-7 /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res

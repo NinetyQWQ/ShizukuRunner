@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shizuku.uninstaller.app-mergeDebugResources-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "3,4,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "94,131,57",
+                        "endColumns": "35,35,35",
+                        "endOffsets": "125,162,88"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,91,127",
+                        "endColumns": "35,35,35",
+                        "endOffsets": "86,122,158"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "106,57",
+                        "endColumns": "46,47",
+                        "endOffsets": "148,100"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "163,210",
+                        "endColumns": "46,47",
+                        "endOffsets": "205,253"
+                    }
+                },
+                {
+                    "source": "/storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "23,3,10,15,19",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "736,56,379,539,652",
+                        "endLines": "25,8,13,17,21",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "766,373,533,646,730"
+                    },
+                    "to": {
+                        "startLines": "7,10,16,20,23",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "258,293,615,774,886",
+                        "endLines": "9,15,19,22,25",
+                        "endColumns": "12,12,12,12,12",
+                        "endOffsets": "288,610,769,881,964"
+                    }
+                }
+            ]
+        }
+    ]
+}

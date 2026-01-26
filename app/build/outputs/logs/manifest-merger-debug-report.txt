@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+provider#rikka.shizuku.ShizukuProvider
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:24:9-30:82
+	android:enabled
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:28:13-35
+	android:authorities
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:26:13-59
+	android:multiprocess
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:27:13-41
+	android:exported
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:29:13-36
+	android:permission
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:30:13-79
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:25:13-57
+manifest
+ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:2:1-18:12
+MERGED from [dev.rikka.shizuku:api:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/320b8c40de58fd89e3793e36e93e4413/transformed/jetified-api-12.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [dev.rikka.shizuku:shared:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/5c924fdb8260d6b2d7d3c38f054efa7c/transformed/jetified-shared-12.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [dev.rikka.shizuku:aidl:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2b26e7936f411bac71d846dabb84ef2d/transformed/jetified-aidl-12.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:5:5-31:19
+MERGED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:12:5-16:19
+MERGED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:12:5-16:19
+	android:extractNativeLibs
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:6:9-41
+	android:label
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:8:9-38
+	tools:ignore
+		ADDED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:12:18-69
+	android:icon
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:7:9-36
+	android:theme
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:9:9-66
+activity#com.shizuku.uninstaller.MainActivity
+ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:10:9-19:20
+	android:launchMode
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:12:13-44
+	android:exported
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.shizuku.uninstaller.Exec
+ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:20:9-23:48
+	android:excludeFromRecents
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:23:13-46
+	android:exported
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:22:13-36
+	android:name
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml:21:13-33
+uses-sdk
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+MERGED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [dev.rikka.shizuku:api:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/320b8c40de58fd89e3793e36e93e4413/transformed/jetified-api-12.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [dev.rikka.shizuku:api:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/320b8c40de58fd89e3793e36e93e4413/transformed/jetified-api-12.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [dev.rikka.shizuku:shared:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/5c924fdb8260d6b2d7d3c38f054efa7c/transformed/jetified-shared-12.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [dev.rikka.shizuku:shared:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/5c924fdb8260d6b2d7d3c38f054efa7c/transformed/jetified-shared-12.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [dev.rikka.shizuku:aidl:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2b26e7936f411bac71d846dabb84ef2d/transformed/jetified-aidl-12.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [dev.rikka.shizuku:aidl:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2b26e7936f411bac71d846dabb84ef2d/transformed/jetified-aidl-12.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		ADDED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+		INJECTED from /storage/emulated/0/AndroidIDEProjects/ShizukuRunner/app/src/main/AndroidManifest.xml
+uses-permission#moe.shizuku.manager.permission.API_V23
+ADDED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:10:5-78
+	android:name
+		ADDED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:10:22-75
+meta-data#moe.shizuku.client.V3_SUPPORT
+ADDED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:13:9-15:36
+	android:value
+		ADDED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:15:13-33
+	android:name
+		ADDED from [dev.rikka.shizuku:provider:12.2.0] /data/user/0/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3a931e7bfa2b1eed3e3ef2b747c6900b/transformed/jetified-provider-12.2.0/AndroidManifest.xml:14:13-57
